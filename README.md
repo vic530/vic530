@@ -1,7 +1,6 @@
 ## Ola! Eu sou o Victor Dantas 🖐️
 
-💻 Sou iniciante no desenvolvimento front-end e atualmente estudo HTML, CSS e JavaScript.  
-Estou construindo meus primeiros projetos para ganhar experiência e melhorar minhas habilidades.
+💻 Desenvolvedor Front-end em início de jornada, dedicado ao estudo de HTML, CSS e JavaScript e à criação de projetos que impulsionam minha evolução.
 
 ## Tecnologias que eu uso no meu dia
 
